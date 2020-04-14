@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coronabot-273317",
+  "private_key_id": "bd9f21235e8b58ab4121ba3b8521d574ec1d6e2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJZLU10OfFgOjX\n3kSQA0b2JegX/c0CbR2xGSwAwniDh0wH0aEIYwXdtITeVJqmEqZ6qeXNKbAtV7TI\nfFjEJQ9fyXPjcxFJoJlHxxR+Eb8gaGiWeFO4SwqASYLdVjPZMQZvyAa2ALrz61bS\nrfWUGCAiGdXV5Ck7Zr12B8eWeU7k4PMnvn7C4etfXcXz9xGfotmD9c/BUcGHgWqn\nACySLpcONBF3hmnWR5qk/yKcrHyhDWt0O69shhhmINKGLYICC2HCh3lg+/b4681c\nJzAvvo8se2hffmcvZLoDeliE8mh/fsVq2SFYrTJEfamFUX3dBIyuG8QiHawEOqSh\nCG/2/bRNAgMBAAECggEAL2N9fyjlcEFkzmQbGOMQfEEZ2wCO0AnrxlRM0ZxB7ffi\nGQZMeTSSZuRnObpLtwFSy5dDLG73FcSdFdOR2GGB+oNlBev/5/nNNK0tW8hqOFba\n0B+DnNrBLfts+EPN0VlwA2kmK2t4ED65bSRUQnbJyolHsKUoNZVbvtSzGisQM7AD\nvU8W3Lb5/yz1fBTVkHB0O4YDjWRS3JJILWsotVj/q8vFKfymo/uWoe+5+NIhrpXV\nvGHR8r0RGSZawfnLJWRPO9+/6Ft1wMXqMu1xh1HQbmjt5ngSbue4wEIfBUc4QVs3\n3vT9oM+RUazkVwcgTs5vOk3Z8qQ7nIeXjzR2qLKDHwKBgQC9I/YfsyfKfg26duA4\nUYmHipwpjW7yJ64bs24p2ThbJ8z/Dr8x8VzZ1ep+WiiZ6X6mL/Cd2voe35kTHJDc\nfhpFzMUnIANRltIoWtuDW1lCMuDBXmZz2SLseESukLBMu7q0iIjxU4se5Z9DalB2\nK2/cnK/yFPSdIn7cMJ27W7cZ8wKBgQC59fTjgBMdFxLki+p8iZWOM5qnp0M8RGCR\n+LmkQ8iWb5F089HLa43Fqsj3w/dp6h/akphKkUfMihklpZhaWRxKa2HvaAttdmYO\nTApItk0C0LGIB/OGMkrMiq84MxOHEeYJ9l20Bd31ew4CfXiewV2IpHR/l8XaNJSg\nCfJDhddIvwKBgEUCogLe813GsGughB8IYQ27XU8r85cXM0eYKFHMl+tqkjldwBUQ\n47f3fR+s9bNypmssgraV9zzciJWYjqJkwGFHXYfw/kT+qp9ex0keQ2sL9UWYk/kg\n+MUe/LBUyn604GKOjqi+urwDPCD04Xa8UoxD/05spvPOaksc0fBSfnRRAoGBALHn\ntlL3slGAQ5jWqoxea+/ROsHt6Qr9N44u8BtQpdQWBIhowmrkCIv06bLvjgGL9NF8\nsamU96Wc8JXtqKW23rPrq5QIa/Za8SP4Z1ZM4bwxv8YuJTJbZufsPdl8M9BitTsO\nsXKKsmApS6viMcVfpIYXH0T6BFTPPOkm2tjycJWtAoGAXZz0dauQR0/TDHHInF9i\n/E63WsE/hvDg7kkKJ6ZlutlMALIKeP2velW3OBbEHhXJBrsiMaPWP3DfnLsP+BNT\nmE3pFKw738043Zh5qw+i0BYl7BK/arudMPUndI2wXsY9H3pJnrLUWizG+yPo16SD\ndkEvv+PCqgMERZpf6q0HwlI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coronabot@coronabot-273317.iam.gserviceaccount.com",
+  "client_id": "106916473113657229616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coronabot%40coronabot-273317.iam.gserviceaccount.com"
+}
