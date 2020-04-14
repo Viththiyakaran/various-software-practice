@@ -11,18 +11,20 @@ app.use(express.static('public'));
 // npm install --save ejs
 
 app.set('view engine', 'ejs');
+
+
 app.get('/', function(req, res ){
-        res.send("Hello ! express server");
+        res.render('home');
 });
 
 
 app.get('/about', function(req , res){
-     res.send("This is about page");
+     res.render('about');
 });
 
 
 app.get('/contact', function(req , res){
-  res.send("This is contact page");
+  res.render('contact');
 });
 
 app.listen(3000);
