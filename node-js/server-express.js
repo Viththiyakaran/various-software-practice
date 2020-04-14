@@ -7,6 +7,10 @@ const app  = express();
 //how to use public folder
 app.use(express.static('public'));
 
+
+// npm install --save ejs
+
+app.set('view engine', 'ejs');
 app.get('/', function(req, res ){
         res.send("Hello ! express server");
 });
