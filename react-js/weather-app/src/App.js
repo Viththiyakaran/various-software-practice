@@ -31,8 +31,16 @@ function App() {
 
         <div className="location-box">
            <div className="location"> Batticaloa, SL</div>
-  <div className="date"> { dataBuilder(new Date())}</div>
-        
+           <div className="date"> { dataBuilder(new Date())}</div>
+        </div>
+
+        <div className="weather-box">
+           <div className="temp">
+             15* C 
+           </div>
+           <div className="weather">
+              Sunny
+           </div>
         </div>
       </main>
     </div>
