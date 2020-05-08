@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ae42811e79978391ce89c4b73414d76",
+    "revision": "986775d5d7acc3b3dad702384124c53a",
     "url": "/various-software-practice/index.html"
   },
   {
-    "revision": "87d7d76ad8c6531d2560",
-    "url": "/various-software-practice/static/css/main.e52bb72a.chunk.css"
+    "revision": "7c996c9c2a3eba52913f",
+    "url": "/various-software-practice/static/css/main.f34c1427.chunk.css"
   },
   {
     "revision": "3eb0fbf182770295a78b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/various-software-practice/static/js/2.af9b9637.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87d7d76ad8c6531d2560",
+    "revision": "7c996c9c2a3eba52913f",
     "url": "/various-software-practice/static/js/main.176f5acd.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/various-software-practice/static/js/runtime-main.a1972a16.js"
   },
   {
-    "revision": "c97cb84b74a52edcb496295687e87822",
-    "url": "/various-software-practice/static/media/cold-bg.c97cb84b.jpg"
+    "revision": "6ecf73729bdd122cf00646bdf7376882",
+    "url": "/various-software-practice/static/media/cold-bg.6ecf7372.jpg"
   },
   {
-    "revision": "635ed87d2cc826fb213057ac40dfaff1",
-    "url": "/various-software-practice/static/media/warm-bg.635ed87d.jpg"
+    "revision": "bb83b300ceb0621f3224a9f5e901ed0d",
+    "url": "/various-software-practice/static/media/warm-bg.bb83b300.jpg"
   }
 ]);

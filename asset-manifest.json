@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/various-software-practice/static/css/main.e52bb72a.chunk.css",
+    "main.css": "/various-software-practice/static/css/main.f34c1427.chunk.css",
     "main.js": "/various-software-practice/static/js/main.176f5acd.chunk.js",
     "main.js.map": "/various-software-practice/static/js/main.176f5acd.chunk.js.map",
     "runtime-main.js": "/various-software-practice/static/js/runtime-main.a1972a16.js",
@@ -8,16 +8,16 @@
     "static/js/2.af9b9637.chunk.js": "/various-software-practice/static/js/2.af9b9637.chunk.js",
     "static/js/2.af9b9637.chunk.js.map": "/various-software-practice/static/js/2.af9b9637.chunk.js.map",
     "index.html": "/various-software-practice/index.html",
-    "precache-manifest.63761efebdc27cc877a619a9911b6299.js": "/various-software-practice/precache-manifest.63761efebdc27cc877a619a9911b6299.js",
+    "precache-manifest.77d2e5cf8711d0fa54a3937c822d9efb.js": "/various-software-practice/precache-manifest.77d2e5cf8711d0fa54a3937c822d9efb.js",
     "service-worker.js": "/various-software-practice/service-worker.js",
-    "static/css/main.e52bb72a.chunk.css.map": "/various-software-practice/static/css/main.e52bb72a.chunk.css.map",
+    "static/css/main.f34c1427.chunk.css.map": "/various-software-practice/static/css/main.f34c1427.chunk.css.map",
     "static/js/2.af9b9637.chunk.js.LICENSE.txt": "/various-software-practice/static/js/2.af9b9637.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/various-software-practice/static/media/warm-bg.635ed87d.jpg"
+    "static/media/index.css": "/various-software-practice/static/media/warm-bg.bb83b300.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1972a16.js",
     "static/js/2.af9b9637.chunk.js",
-    "static/css/main.e52bb72a.chunk.css",
+    "static/css/main.f34c1427.chunk.css",
     "static/js/main.176f5acd.chunk.js"
   ]
 }
