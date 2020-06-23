@@ -9,3 +9,7 @@ When learn new things or technology about software development i commit here
  1. npm install 
  
  2. Run the server file ( app.js or index.js )
+ 
+ 
+## Project online 
+1. Weather app : https://viththiyakaran.github.io/various-software-practice/
